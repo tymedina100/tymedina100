@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I’m Tyler Medina
 
-<!--
-**tymedina100/tymedina100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science graduate from Arizona State University (May 2026) and an IT Coordinator at BASIS Ed. My experience spans user support, application debugging, and software development, including paid client work for Loft Golf Studios.
 
-Here are some ideas to get you started:
+## Selected work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Loft Golf](https://github.com/tymedina100/LoftGolfApp)** — Swift iOS booking app and Node.js calendar synchronization. A team capstone and upstream fork; my paid contributions focused on debugging booking, cancellation, and synchronization issues.
+- **[Graph Processing](https://github.com/tymedina100/graph-processing-library)** — Java library for DOT parsing, graph operations, and BFS/DFS search, with JUnit tests and GitHub Actions CI. Developed for ASU coursework.
+- **[Worthlane](https://github.com/tymedina100/worthlane)** — Household finance app in development with mobile and desktop clients, a shared API, and PostgreSQL. Release verification is in progress.
+- **[HomeQuest](https://github.com/tymedina100/homequest)** — TypeScript home-management app with versioned persistence, migration logic, and unit/browser regression tests.
+
+I’m based in Phoenix and interested in software development, QA, and technical support opportunities.
+
+[Connect on LinkedIn](https://www.linkedin.com/in/tyler-medina/)
