@@ -11,4 +11,4 @@ I’m a Computer Science graduate from Arizona State University (May 2026) and a
 
 I’m based in Phoenix and interested in software development, QA, and technical support opportunities.
 
-[Connect on LinkedIn](https://www.linkedin.com/in/tyler-medina/)
+[Connect on LinkedIn](https://www.linkedin.com/in/tyler-medina-cs/)
